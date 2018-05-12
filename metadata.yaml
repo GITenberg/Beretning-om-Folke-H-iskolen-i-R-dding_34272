@@ -1,0 +1,27 @@
+_repo: Beretning-om-Folke-H-iskolen-i-R-dding_34272
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Flor, Christian
+    birthdate: 1792
+    deathdate: 1875
+    gutenberg_agent_id: '36926'
+    url: http://www.gutenberg.org/2009/agents/36926
+description: ''
+gutenberg_issued: '2010-11-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34272'
+language: da
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Education -- Denmark'
+- !lcsh 'Folk high schools -- Denmark'
+- !lcc 'LA'
+title: Beretning om Folke-Høiskolen i Rødding
+url: http://www.gutenberg.org/ebooks/34272
