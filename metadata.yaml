@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36926'
     url: http://www.gutenberg.org/2009/agents/36926
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34272#Beretning-om-Folke-H-iskolen-i-R-dding
 gutenberg_issued: '2010-11-10'
 gutenberg_type: Text
 identifiers:
